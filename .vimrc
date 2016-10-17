@@ -6,3 +6,4 @@ set fencs=utf-8,cp1251,koi8-r,ucs-2,cp866
 set tabstop=2
 set cursorline
 colorscheme slate
+syntax on
